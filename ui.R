@@ -18,7 +18,7 @@ shinyUI(pageWithSidebar(
 
                  HTML('<br></br><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Mali 2013 : premier tour</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ahmadou H. Dicko</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.'),
                   HTML('<br></br><img src="jokkolabs_logo.png" alt="File Type">'),
-                 HTML("<br></br>Code source disponible sur <a href = \"https://github.com/dickoa/OpenDataApp\">Github</a>")
+                 HTML("<br></br>Code source disponible sur <a href = \"https://github.com/dickoa/MaliPremierTour\">Github</a>")
                  )
         ),
     mainPanel(
